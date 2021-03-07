@@ -1,63 +1,87 @@
 * {
-    font-family: "Courier New", Courier, monospace;
-    color: white;
-    text-shadow: 1px 1px 1px rgb(242, 54, 52);
-    text-decoration: none;
-  }
-  
-  body {
-    background-image: url(/img/gif.gif);
-    background-size: 100%;
-  }
-  
-  hr {
-    height: 1px;
-    background-color: rgb(242, 54, 52);
-  }
-  
-  .block {
-    max-width: 900px;
-    margin: auto;
-  }
-  
-  .logo {
-    margin-left: 150px;
-    width: 150px;
-    border-radius: 150px;
-    border-style: outset;
-    border-color: rgb(242, 54, 52);
-  }
-  
-  .name {
-    margin-left: 50px;
-    float: right;
-  }
-  
-  .contacts {
-    margin-left: 50px;
-  }
-  
-  .about {
-    margin-left: 50px;
-  }
-  
-  .skills {
-    margin-left: 50px;
-  }
-  
-  .code {
-    margin-left: 50px;
-  }
-  
-  .experience {
-    margin-left: 50px;
-  }
-  
-  .education {
-    margin-left: 50px;
-  }
-  
-  .english {
-    margin-left: 50px;
-  }
-  
+  font-family: "Courier New", Courier, monospace;
+  color: white;
+  text-shadow: 1px 1px 1px rgb(242, 54, 52);
+  text-decoration: none;
+}
+
+body {
+  background-image: url(/img/gif.gif);
+  background-size: 100%;
+}
+
+hr {
+  height: 1px;
+  background-color: rgb(242, 54, 52);
+}
+
+.block {
+  max-width: 900px;
+  margin: auto;
+}
+
+.logo {
+  margin-left: 150px;
+  width: 150px;
+  border-radius: 150px;
+  border-style: outset;
+  border-color: rgb(242, 54, 52);
+}
+
+.name {
+  margin-left: 50px;
+  float: right;
+}
+
+.contacts {
+  margin-left: 50px;
+}
+
+.about {
+  margin-left: 50px;
+}
+
+.skills {
+  margin-left: 50px;
+}
+
+.code {
+  margin-left: 50px;
+}
+
+.experience {
+  margin-left: 50px;
+}
+
+.education {
+  margin-left: 50px;
+}
+
+.english {
+  margin-left: 50px;
+}
+
+.footer {
+  max-width: 900px;
+  margin: auto;
+}
+
+.dttime {
+  margin-left: 50px;
+}
+
+.gitlink {
+  margin-left: 50px;
+  width: 30px;
+  border-radius: 30px;
+  border-style: outset;
+  border-color: rgb(242, 54, 52);
+}
+
+.rslink {
+  margin-left: 50px;
+  height: 30px;
+  border-radius: 5px;
+  border-style: outset;
+  border-color: rgb(242, 54, 52);
+}
