@@ -76,6 +76,7 @@ hr {
   border-radius: 30px;
   border-style: outset;
   border-color: rgb(242, 54, 52);
+  transition: 1s;
 }
 
 .rslink {
@@ -84,4 +85,13 @@ hr {
   border-radius: 5px;
   border-style: outset;
   border-color: rgb(242, 54, 52);
+  transition: 1s;
+}
+
+.rslink:hover {
+  transform: scale(1.2);
+}
+
+.gitlink:hover {
+  transform: scale(1.2);
 }
