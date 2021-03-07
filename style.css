@@ -6,8 +6,9 @@
 }
 
 body {
-  background-image: url(./img/gif.gif);
+  background-image: url(./img/gi1f.gif);
   background-size: 100%;
+  background-color: rgb(34, 34, 52);
 }
 
 hr {
